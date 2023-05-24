@@ -14,7 +14,7 @@ namespace task2
         }
         public class MyString
         {
-            public string _string = "abc";
+            public string _string;
             public MyString(string str)
             {
                 _string = str;
